@@ -1,0 +1,8 @@
+Red 2 2 3 h
+Orange 2 1 1 h
+Yellow 3 1 2 v
+Violet 2 1 5 v
+Green 3 4 2 v
+Cyan 3 3 6 h
+White 2 5 5 h
+Blue 3 6 1 v
